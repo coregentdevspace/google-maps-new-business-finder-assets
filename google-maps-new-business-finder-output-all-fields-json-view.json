@@ -1,0 +1,899 @@
+[{
+  "rowType": "business",
+  "name": "CAFE ATELIER",
+  "placeId": "ChIJHyGVrsZVFmsRydXaMonLZXQ",
+  "cid": "8387333671171577289",
+  "featureId": "0x6b1655c6ae95211f:0x7465cb8932dad5c9",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJHyGVrsZVFmsRydXaMonLZXQ&hl=en",
+  "category": "Art cafe",
+  "categories": [
+    "Art cafe"
+  ],
+  "address": "Infinity towers, A 429/1 Anthony Rolfe Ave, Gungahlin ACT 2912, Australia",
+  "latitude": -35.1817413,
+  "longitude": 149.1303112,
+  "plusCode": "R49J+84 Gungahlin, Australian Capital Territory, Australia",
+  "phone": null,
+  "website": null,
+  "rating": 5,
+  "reviewsCount": 3,
+  "businessStatus": "OPERATIONAL",
+  "estimatedOpenedAt": "2026-05-17",
+  "openingDateSource": "EARLIEST_REVIEW",
+  "openingConfidence": "MEDIUM",
+  "googleOpenedLabel": null,
+  "isNewBusiness": true,
+  "businessStage": "NEW",
+  "qualificationStatus": "QUALIFIED_NEW",
+  "newBusinessSignals": [
+    "RECENT_FIRST_REVIEW",
+    "LOW_REVIEW_COUNT",
+    "NO_WEBSITE"
+  ],
+  "evidence": [
+    "Oldest of 3/3 reviews checked (complete, direct): \"5 months ago\""
+  ],
+  "earliestReviewAt": "2026-05-17T10:58:56.960Z",
+  "earliestReviewDatePrecision": "APPROXIMATE",
+  "earliestReviewRelative": "5 months ago",
+  "earliestReviewComplete": true,
+  "reviewsChecked": 3,
+  "firstSeenAt": null,
+  "leadSignals": {
+    "noWebsite": true,
+    "hasWebsite": false,
+    "lowReviewCount": true,
+    "missingPhone": false,
+    "noSocialsDetected": null
+  },
+  "emails": null,
+  "primaryEmail": null,
+  "socials": null,
+  "contactPageUrl": null,
+  "enrichmentStatus": "NO_WEBSITE",
+  "searchTerm": "cafe",
+  "location": "Gungahlin, ACT, Australia",
+  "matchedSearches": [
+    {
+      "searchTerm": "cafe",
+      "location": "Gungahlin, ACT, Australia"
+    }
+  ],
+  "scrapedAt": "2026-10-14T11:04:51.042Z"
+},
+{
+  "rowType": "business",
+  "name": "O’Brien’s Irish Pub",
+  "placeId": "ChIJJ4MsAACtF2sRcsjSlHzk7ls",
+  "cid": "6624483325632497778",
+  "featureId": "0x6b17ad00002c8327:0x5beee47c94d2c872",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJJ4MsAACtF2sRcsjSlHzk7ls&hl=en",
+  "category": "Bar",
+  "categories": [
+    "Bar"
+  ],
+  "address": "87 Verbrugghen St, Melba ACT 2615, Australia",
+  "latitude": -35.2129033,
+  "longitude": 149.0565471,
+  "plusCode": "Q3P4+RJ Melba, Australian Capital Territory, Australia",
+  "phone": null,
+  "website": null,
+  "rating": 5,
+  "reviewsCount": 3,
+  "businessStatus": "OPERATIONAL",
+  "estimatedOpenedAt": "2026-09-14",
+  "openingDateSource": "EARLIEST_REVIEW",
+  "openingConfidence": "MEDIUM",
+  "googleOpenedLabel": null,
+  "isNewBusiness": true,
+  "businessStage": "NEW",
+  "qualificationStatus": "QUALIFIED_NEW",
+  "newBusinessSignals": [
+    "RECENT_FIRST_REVIEW",
+    "LOW_REVIEW_COUNT",
+    "PROFILE_IMMATURE",
+    "NO_WEBSITE"
+  ],
+  "evidence": [
+    "Oldest of 3/3 reviews checked (complete, direct): \"a month ago\""
+  ],
+  "earliestReviewAt": "2026-09-14T10:58:56.960Z",
+  "earliestReviewDatePrecision": "APPROXIMATE",
+  "earliestReviewRelative": "a month ago",
+  "earliestReviewComplete": true,
+  "reviewsChecked": 3,
+  "firstSeenAt": null,
+  "leadSignals": {
+    "noWebsite": true,
+    "hasWebsite": false,
+    "lowReviewCount": true,
+    "missingPhone": true,
+    "noSocialsDetected": null
+  },
+  "emails": null,
+  "primaryEmail": null,
+  "socials": null,
+  "contactPageUrl": null,
+  "enrichmentStatus": "NO_WEBSITE",
+  "searchTerm": "bar",
+  "location": "Belconnen, ACT, Australia",
+  "matchedSearches": [
+    {
+      "searchTerm": "bar",
+      "location": "Belconnen, ACT, Australia"
+    }
+  ],
+  "scrapedAt": "2026-10-14T11:05:08.950Z"
+},
+{
+  "rowType": "business",
+  "name": "The Cookie Doe",
+  "placeId": "ChIJPUIAlXutF2sRF_uSeqt4eao",
+  "cid": "12283982136520932119",
+  "featureId": "0x6b17ad7b9500423d:0xaa7978ab7a92fb17",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJPUIAlXutF2sRF_uSeqt4eao&hl=en",
+  "category": "Cake shop",
+  "categories": [
+    "Cake shop"
+  ],
+  "address": "1 Harrison St, Scullin ACT 2614, Australia",
+  "latitude": -35.2341038,
+  "longitude": 149.0442721,
+  "plusCode": "Q28V+9P Scullin, Australian Capital Territory, Australia",
+  "phone": null,
+  "website": null,
+  "rating": 5,
+  "reviewsCount": 5,
+  "businessStatus": "OPERATIONAL",
+  "estimatedOpenedAt": "2026-09-14",
+  "openingDateSource": "EARLIEST_REVIEW",
+  "openingConfidence": "MEDIUM",
+  "googleOpenedLabel": null,
+  "isNewBusiness": true,
+  "businessStage": "NEW",
+  "qualificationStatus": "QUALIFIED_NEW",
+  "newBusinessSignals": [
+    "RECENT_FIRST_REVIEW",
+    "LOW_REVIEW_COUNT",
+    "PROFILE_IMMATURE"
+  ],
+  "evidence": [
+    "Oldest of 5/5 reviews checked (complete, direct): \"a month ago\""
+  ],
+  "earliestReviewAt": "2026-09-14T10:58:56.960Z",
+  "earliestReviewDatePrecision": "APPROXIMATE",
+  "earliestReviewRelative": "a month ago",
+  "earliestReviewComplete": true,
+  "reviewsChecked": 5,
+  "firstSeenAt": null,
+  "leadSignals": {
+    "noWebsite": false,
+    "hasWebsite": true,
+    "lowReviewCount": true,
+    "missingPhone": true,
+    "noSocialsDetected": false
+  },
+  "emails": [
+    "eatcookiedoe@gmail.com"
+  ],
+  "primaryEmail": "eatcookiedoe@gmail.com",
+  "socials": {
+    "facebook": "",
+    "instagram": "https://instagram.com/the_cookie_doe",
+    "linkedin": "",
+    "twitter": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "contactPageUrl": "https://thecookiedoe.com.au/enquiry",
+  "enrichmentStatus": "SUCCESS",
+  "searchTerm": "bakery",
+  "location": "Belconnen, ACT, Australia",
+  "matchedSearches": [
+    {
+      "searchTerm": "bakery",
+      "location": "Belconnen, ACT, Australia"
+    }
+  ],
+  "scrapedAt": "2026-10-14T11:05:46.646Z"
+},
+{
+  "rowType": "business",
+  "name": "Freed.me Gluten free Bakery",
+  "placeId": "ChIJIbB5CH9VFmsRuayg4r6zn5M",
+  "cid": "10637418477299739833",
+  "featureId": "0x6b16557f0879b021:0x939fb3bee2a0acb9",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJIbB5CH9VFmsRuayg4r6zn5M&hl=en",
+  "category": "Bakery",
+  "categories": [
+    "Bakery"
+  ],
+  "address": "G10/4 Gribble St, Gungahlin ACT 2912, Australia",
+  "latitude": -35.1824678,
+  "longitude": 149.1301678,
+  "plusCode": "R49J+23 Gungahlin, Australian Capital Territory, Australia",
+  "phone": null,
+  "website": null,
+  "rating": 4.9,
+  "reviewsCount": 10,
+  "businessStatus": "OPERATIONAL",
+  "estimatedOpenedAt": "2026-07-15",
+  "openingDateSource": "EARLIEST_REVIEW",
+  "openingConfidence": "MEDIUM",
+  "googleOpenedLabel": null,
+  "isNewBusiness": true,
+  "businessStage": "NEW",
+  "qualificationStatus": "QUALIFIED_NEW",
+  "newBusinessSignals": [
+    "RECENT_FIRST_REVIEW",
+    "LOW_REVIEW_COUNT"
+  ],
+  "evidence": [
+    "Oldest of 15/10 reviews checked (complete, dataforseo): 2026-07-15T12:39:44.000Z"
+  ],
+  "earliestReviewAt": "2026-07-15T12:39:44.000Z",
+  "earliestReviewDatePrecision": "EXACT",
+  "earliestReviewRelative": "2 months ago",
+  "earliestReviewComplete": true,
+  "reviewsChecked": 15,
+  "firstSeenAt": null,
+  "leadSignals": {
+    "noWebsite": false,
+    "hasWebsite": true,
+    "lowReviewCount": true,
+    "missingPhone": true,
+    "noSocialsDetected": false
+  },
+  "emails": [],
+  "primaryEmail": null,
+  "socials": {
+    "facebook": "https://facebook.com/people/Freedme-GF-bakery/61573833818522",
+    "instagram": "https://instagram.com/freed.me_gf_bakery",
+    "linkedin": "",
+    "twitter": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "contactPageUrl": "https://freedme.com.au/about",
+  "enrichmentStatus": "SUCCESS",
+  "searchTerm": "bakery",
+  "location": "Gungahlin, ACT, Australia",
+  "matchedSearches": [
+    {
+      "searchTerm": "bakery",
+      "location": "Gungahlin, ACT, Australia"
+    }
+  ],
+  "scrapedAt": "2026-10-14T11:07:43.539Z"
+},
+{
+  "rowType": "business",
+  "name": "BARBEQUE NATION LAKESIDE",
+  "placeId": "ChIJ_aWc3pxNFmsRxXu01e1OV74",
+  "cid": "13715517973579725765",
+  "featureId": "0x6b164d9cde9ca5fd:0xbe574eedd5b47bc5",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ_aWc3pxNFmsRxXu01e1OV74&hl=en",
+  "category": "Restaurant",
+  "categories": [
+    "Restaurant"
+  ],
+  "address": "41 Eastlake Parade, Kingston ACT 2604, Australia",
+  "latitude": -35.3133422,
+  "longitude": 149.1468321,
+  "plusCode": "M4PW+MP Kingston, Australian Capital Territory, Australia",
+  "phone": null,
+  "website": null,
+  "rating": 5,
+  "reviewsCount": 11,
+  "businessStatus": "OPERATIONAL",
+  "estimatedOpenedAt": "2026-10-11",
+  "openingDateSource": "EARLIEST_REVIEW",
+  "openingConfidence": "MEDIUM",
+  "googleOpenedLabel": null,
+  "isNewBusiness": true,
+  "businessStage": "NEW",
+  "qualificationStatus": "QUALIFIED_NEW",
+  "newBusinessSignals": [
+    "RECENT_FIRST_REVIEW",
+    "LOW_REVIEW_COUNT",
+    "NO_SOCIALS"
+  ],
+  "evidence": [
+    "Oldest of 15/11 reviews checked (complete, dataforseo): 2026-10-11T07:00:49.000Z"
+  ],
+  "earliestReviewAt": "2026-10-11T07:00:49.000Z",
+  "earliestReviewDatePrecision": "EXACT",
+  "earliestReviewRelative": "3 days ago",
+  "earliestReviewComplete": true,
+  "reviewsChecked": 15,
+  "firstSeenAt": null,
+  "leadSignals": {
+    "noWebsite": false,
+    "hasWebsite": true,
+    "lowReviewCount": true,
+    "missingPhone": false,
+    "noSocialsDetected": true
+  },
+  "emails": [],
+  "primaryEmail": null,
+  "socials": {
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "twitter": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "contactPageUrl": null,
+  "enrichmentStatus": "SUCCESS",
+  "searchTerm": "restaurant",
+  "location": "Kingston, ACT, Australia",
+  "matchedSearches": [
+    {
+      "searchTerm": "restaurant",
+      "location": "Kingston, ACT, Australia"
+    }
+  ],
+  "scrapedAt": "2026-10-14T11:08:01.640Z"
+},
+{
+  "rowType": "business",
+  "name": "Eve at Queenies",
+  "placeId": "ChIJffAXdgBNFmsReBT4URIUcM8",
+  "cid": "14947469232159855736",
+  "featureId": "0x6b164d007617f07d:0xcf70141251f81478",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJffAXdgBNFmsReBT4URIUcM8&hl=en",
+  "category": "Australian restaurant",
+  "categories": [
+    "Australian restaurant"
+  ],
+  "address": "34 Giles St, Kingston ACT 2604, Australia",
+  "latitude": -35.3158779,
+  "longitude": 149.1404563,
+  "plusCode": "M4MR+J5 Kingston, Australian Capital Territory, Australia",
+  "phone": null,
+  "website": null,
+  "rating": 4.9,
+  "reviewsCount": 11,
+  "businessStatus": "OPERATIONAL",
+  "estimatedOpenedAt": "2026-07-17",
+  "openingDateSource": "EARLIEST_REVIEW",
+  "openingConfidence": "MEDIUM",
+  "googleOpenedLabel": null,
+  "isNewBusiness": true,
+  "businessStage": "NEW",
+  "qualificationStatus": "QUALIFIED_NEW",
+  "newBusinessSignals": [
+    "RECENT_FIRST_REVIEW",
+    "LOW_REVIEW_COUNT",
+    "NO_SOCIALS"
+  ],
+  "evidence": [
+    "Oldest of 16/11 reviews checked (complete, dataforseo): 2026-07-17T11:35:46.000Z"
+  ],
+  "earliestReviewAt": "2026-07-17T11:35:46.000Z",
+  "earliestReviewDatePrecision": "EXACT",
+  "earliestReviewRelative": "2 months ago",
+  "earliestReviewComplete": true,
+  "reviewsChecked": 16,
+  "firstSeenAt": null,
+  "leadSignals": {
+    "noWebsite": false,
+    "hasWebsite": true,
+    "lowReviewCount": true,
+    "missingPhone": false,
+    "noSocialsDetected": true
+  },
+  "emails": [],
+  "primaryEmail": null,
+  "socials": {
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "twitter": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "contactPageUrl": null,
+  "enrichmentStatus": "SUCCESS",
+  "searchTerm": "restaurant",
+  "location": "Kingston, ACT, Australia",
+  "matchedSearches": [
+    {
+      "searchTerm": "restaurant",
+      "location": "Kingston, ACT, Australia"
+    }
+  ],
+  "scrapedAt": "2026-10-14T11:08:14.646Z"
+},
+{
+  "rowType": "business",
+  "name": "My Cake By Sc - Custom Cakes and Cupcakes Canberra",
+  "placeId": "ChIJab7UouZTFmsRksQa9COXXn4",
+  "cid": "9105881677264766098",
+  "featureId": "0x6b1653e6a2d4be69:0x7e5e9723f41ac492",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJab7UouZTFmsRksQa9COXXn4&hl=en",
+  "category": "Pastry shop",
+  "categories": [
+    "Pastry shop"
+  ],
+  "address": null,
+  "latitude": -35.522473,
+  "longitude": 149.0810386,
+  "plusCode": null,
+  "phone": null,
+  "website": null,
+  "rating": 5,
+  "reviewsCount": 15,
+  "businessStatus": "OPERATIONAL",
+  "estimatedOpenedAt": "2026-06-21",
+  "openingDateSource": "EARLIEST_REVIEW",
+  "openingConfidence": "MEDIUM",
+  "googleOpenedLabel": null,
+  "isNewBusiness": true,
+  "businessStage": "NEW",
+  "qualificationStatus": "QUALIFIED_NEW",
+  "newBusinessSignals": [
+    "RECENT_FIRST_REVIEW",
+    "LOW_REVIEW_COUNT"
+  ],
+  "evidence": [
+    "Oldest of 20/15 reviews checked (complete, dataforseo): 2026-06-21T12:07:22.000Z"
+  ],
+  "earliestReviewAt": "2026-06-21T12:07:22.000Z",
+  "earliestReviewDatePrecision": "EXACT",
+  "earliestReviewRelative": "3 months ago",
+  "earliestReviewComplete": true,
+  "reviewsChecked": 20,
+  "firstSeenAt": null,
+  "leadSignals": {
+    "noWebsite": false,
+    "hasWebsite": true,
+    "lowReviewCount": true,
+    "missingPhone": false,
+    "noSocialsDetected": false
+  },
+  "emails": [],
+  "primaryEmail": null,
+  "socials": {
+    "facebook": "https://developers.facebook.com/docs/instagram",
+    "instagram": "https://instagram.com/popular",
+    "linkedin": "",
+    "twitter": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "contactPageUrl": null,
+  "enrichmentStatus": "SUCCESS",
+  "searchTerm": "bakery",
+  "location": "Gungahlin, ACT, Australia",
+  "matchedSearches": [
+    {
+      "searchTerm": "bakery",
+      "location": "Gungahlin, ACT, Australia"
+    }
+  ],
+  "scrapedAt": "2026-10-14T11:09:23.646Z"
+},
+{
+  "rowType": "business",
+  "name": "Sailor Bistro and Brew",
+  "placeId": "ChIJvycDS1hNFmsRFmoTbNrgURY",
+  "cid": "1608313770668681750",
+  "featureId": "0x6b164d584b0327bf:0x1651e0da6c136a16",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJvycDS1hNFmsRFmoTbNrgURY&hl=en",
+  "category": "Restaurant",
+  "categories": [
+    "Restaurant"
+  ],
+  "address": "3/7 Lonsdale St, Braddon ACT 2612, Australia",
+  "latitude": -35.2748717,
+  "longitude": 149.1323432,
+  "plusCode": "P4GJ+3W Braddon, Australian Capital Territory, Australia",
+  "phone": null,
+  "website": null,
+  "rating": 4.6,
+  "reviewsCount": 17,
+  "businessStatus": "OPERATIONAL",
+  "estimatedOpenedAt": "2026-07-30",
+  "openingDateSource": "EARLIEST_REVIEW",
+  "openingConfidence": "MEDIUM",
+  "googleOpenedLabel": null,
+  "isNewBusiness": true,
+  "businessStage": "NEW",
+  "qualificationStatus": "QUALIFIED_NEW",
+  "newBusinessSignals": [
+    "RECENT_FIRST_REVIEW",
+    "LOW_REVIEW_COUNT",
+    "NO_SOCIALS"
+  ],
+  "evidence": [
+    "Oldest of 22/17 reviews checked (complete, dataforseo): 2026-07-30T03:45:47.000Z"
+  ],
+  "earliestReviewAt": "2026-07-30T03:45:47.000Z",
+  "earliestReviewDatePrecision": "EXACT",
+  "earliestReviewRelative": "2 months ago",
+  "earliestReviewComplete": true,
+  "reviewsChecked": 22,
+  "firstSeenAt": null,
+  "leadSignals": {
+    "noWebsite": false,
+    "hasWebsite": true,
+    "lowReviewCount": true,
+    "missingPhone": false,
+    "noSocialsDetected": true
+  },
+  "emails": [],
+  "primaryEmail": null,
+  "socials": {
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "twitter": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "contactPageUrl": null,
+  "enrichmentStatus": "SUCCESS",
+  "searchTerm": "cafe",
+  "location": "Braddon, ACT, Australia",
+  "matchedSearches": [
+    {
+      "searchTerm": "cafe",
+      "location": "Braddon, ACT, Australia"
+    },
+    {
+      "searchTerm": "restaurant",
+      "location": "Braddon, ACT, Australia"
+    }
+  ],
+  "scrapedAt": "2026-10-14T11:10:03.845Z"
+},
+{
+  "rowType": "business",
+  "name": "Cafe Momo Braddon Canberra City",
+  "placeId": "ChIJ1XkieeRNFmsR7YO4BD8u85A",
+  "cid": "10444742808999330797",
+  "featureId": "0x6b164de4792279d5:0x90f32e3f04b883ed",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ1XkieeRNFmsR7YO4BD8u85A&hl=en",
+  "category": "Restaurant",
+  "categories": [
+    "Restaurant"
+  ],
+  "address": "Back side Shop, G13/61 Cooyong St, Braddon ACT 2612, Australia",
+  "latitude": -35.2774693,
+  "longitude": 149.1353713,
+  "plusCode": "P4FP+24 Braddon, Australian Capital Territory, Australia",
+  "phone": null,
+  "website": null,
+  "rating": 4.8,
+  "reviewsCount": 22,
+  "businessStatus": "OPERATIONAL",
+  "estimatedOpenedAt": "2026-08-20",
+  "openingDateSource": "EARLIEST_REVIEW",
+  "openingConfidence": "MEDIUM",
+  "googleOpenedLabel": null,
+  "isNewBusiness": true,
+  "businessStage": "NEW",
+  "qualificationStatus": "QUALIFIED_NEW",
+  "newBusinessSignals": [
+    "RECENT_FIRST_REVIEW"
+  ],
+  "evidence": [
+    "Oldest of 27/22 reviews checked (complete, dataforseo): 2026-08-20T08:15:49.000Z"
+  ],
+  "earliestReviewAt": "2026-08-20T08:15:49.000Z",
+  "earliestReviewDatePrecision": "EXACT",
+  "earliestReviewRelative": "a month ago",
+  "earliestReviewComplete": true,
+  "reviewsChecked": 27,
+  "firstSeenAt": null,
+  "leadSignals": {
+    "noWebsite": false,
+    "hasWebsite": true,
+    "lowReviewCount": false,
+    "missingPhone": false,
+    "noSocialsDetected": false
+  },
+  "emails": [
+    "enquiries@cafemomo.com.au"
+  ],
+  "primaryEmail": "enquiries@cafemomo.com.au",
+  "socials": {
+    "facebook": "https://facebook.com/cafemomobruce",
+    "instagram": "https://instagram.com/cafemomobruce",
+    "linkedin": "",
+    "twitter": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "contactPageUrl": "https://www.cafemomo.com.au/about.html",
+  "enrichmentStatus": "SUCCESS",
+  "searchTerm": "cafe",
+  "location": "Braddon, ACT, Australia",
+  "matchedSearches": [
+    {
+      "searchTerm": "cafe",
+      "location": "Braddon, ACT, Australia"
+    }
+  ],
+  "scrapedAt": "2026-10-14T11:10:18.345Z"
+},
+{
+  "rowType": "business",
+  "name": "Yaka",
+  "placeId": "ChIJ6aoRCqVNFmsRQBiPDcDY6XQ",
+  "cid": "8424502897346025536",
+  "featureId": "0x6b164da50a11aae9:0x74e9d8c00d8f1840",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ6aoRCqVNFmsRQBiPDcDY6XQ&hl=en",
+  "category": "Sri Lankan restaurant",
+  "categories": [
+    "Sri Lankan restaurant"
+  ],
+  "address": "Unit 72/30 Lonsdale St, Braddon ACT 2612, Australia",
+  "latitude": -35.2718529,
+  "longitude": 149.1332378,
+  "plusCode": "P4HM+77 Braddon, Australian Capital Territory, Australia",
+  "phone": null,
+  "website": null,
+  "rating": 4.9,
+  "reviewsCount": 27,
+  "businessStatus": "OPERATIONAL",
+  "estimatedOpenedAt": "2026-09-10",
+  "openingDateSource": "EARLIEST_REVIEW",
+  "openingConfidence": "MEDIUM",
+  "googleOpenedLabel": null,
+  "isNewBusiness": true,
+  "businessStage": "NEW",
+  "qualificationStatus": "QUALIFIED_NEW",
+  "newBusinessSignals": [
+    "RECENT_FIRST_REVIEW",
+    "NO_WEBSITE"
+  ],
+  "evidence": [
+    "Oldest of 32/27 reviews checked (complete, dataforseo): 2026-09-10T03:24:59.000Z"
+  ],
+  "earliestReviewAt": "2026-09-10T03:24:59.000Z",
+  "earliestReviewDatePrecision": "EXACT",
+  "earliestReviewRelative": "a month ago",
+  "earliestReviewComplete": true,
+  "reviewsChecked": 32,
+  "firstSeenAt": null,
+  "leadSignals": {
+    "noWebsite": true,
+    "hasWebsite": false,
+    "lowReviewCount": false,
+    "missingPhone": false,
+    "noSocialsDetected": null
+  },
+  "emails": null,
+  "primaryEmail": null,
+  "socials": null,
+  "contactPageUrl": null,
+  "enrichmentStatus": "NO_WEBSITE",
+  "searchTerm": "restaurant",
+  "location": "Braddon, ACT, Australia",
+  "matchedSearches": [
+    {
+      "searchTerm": "restaurant",
+      "location": "Braddon, ACT, Australia"
+    }
+  ],
+  "scrapedAt": "2026-10-14T11:11:30.841Z"
+},
+{
+  "rowType": "business",
+  "name": "Palmers",
+  "placeId": "ChIJlXb2Gx9VFmsRwxmlzV4o9Xo",
+  "cid": "8860032229563505091",
+  "featureId": "0x6b16551f1bf67695:0x7af5285ecda519c3",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJlXb2Gx9VFmsRwxmlzV4o9Xo&hl=en",
+  "category": "Pub",
+  "categories": [
+    "Pub"
+  ],
+  "address": "30 Anthony Rolfe Ave, Gungahlin ACT 2912, Australia",
+  "latitude": -35.1832817,
+  "longitude": 149.1324926,
+  "plusCode": "R48J+MX Gungahlin, Australian Capital Territory, Australia",
+  "phone": null,
+  "website": null,
+  "rating": 4.6,
+  "reviewsCount": 29,
+  "businessStatus": "OPERATIONAL",
+  "estimatedOpenedAt": "2026-05-08",
+  "openingDateSource": "EARLIEST_REVIEW",
+  "openingConfidence": "MEDIUM",
+  "googleOpenedLabel": null,
+  "isNewBusiness": true,
+  "businessStage": "NEW",
+  "qualificationStatus": "QUALIFIED_NEW",
+  "newBusinessSignals": [
+    "RECENT_FIRST_REVIEW"
+  ],
+  "evidence": [
+    "Oldest of 34/29 reviews checked (complete, dataforseo): 2026-05-08T08:45:58.000Z"
+  ],
+  "earliestReviewAt": "2026-05-08T08:45:58.000Z",
+  "earliestReviewDatePrecision": "EXACT",
+  "earliestReviewRelative": "5 months ago",
+  "earliestReviewComplete": true,
+  "reviewsChecked": 34,
+  "firstSeenAt": null,
+  "leadSignals": {
+    "noWebsite": false,
+    "hasWebsite": true,
+    "lowReviewCount": false,
+    "missingPhone": false,
+    "noSocialsDetected": false
+  },
+  "emails": [
+    "info@palmersgungahlin.com"
+  ],
+  "primaryEmail": "info@palmersgungahlin.com",
+  "socials": {
+    "facebook": "",
+    "instagram": "https://instagram.com/palmerscbr",
+    "linkedin": "",
+    "twitter": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "contactPageUrl": null,
+  "enrichmentStatus": "SUCCESS",
+  "searchTerm": "bar",
+  "location": "Gungahlin, ACT, Australia",
+  "matchedSearches": [
+    {
+      "searchTerm": "bar",
+      "location": "Gungahlin, ACT, Australia"
+    }
+  ],
+  "scrapedAt": "2026-10-14T11:12:21.843Z"
+},
+{
+  "rowType": "business",
+  "name": "Bar Nova",
+  "placeId": "ChIJA-FHOqNNFmsRKAhozpBp0XA",
+  "cid": "8129394873039587368",
+  "featureId": "0x6b164da33a47e103:0x70d16990ce680828",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJA-FHOqNNFmsRKAhozpBp0XA&hl=en",
+  "category": "Restaurant",
+  "categories": [
+    "Restaurant"
+  ],
+  "address": "Corner of Kennedy Street &, 39 Kennedy St, 5 Eyre St, Kingston ACT 2604, Australia",
+  "latitude": -35.3167444,
+  "longitude": 149.1414749,
+  "plusCode": "M4MR+8H Kingston, Australian Capital Territory, Australia",
+  "phone": null,
+  "website": null,
+  "rating": 4.9,
+  "reviewsCount": 30,
+  "businessStatus": "OPERATIONAL",
+  "estimatedOpenedAt": "2026-08-25",
+  "openingDateSource": "EARLIEST_REVIEW",
+  "openingConfidence": "MEDIUM",
+  "googleOpenedLabel": null,
+  "isNewBusiness": true,
+  "businessStage": "NEW",
+  "qualificationStatus": "QUALIFIED_NEW",
+  "newBusinessSignals": [
+    "RECENT_FIRST_REVIEW"
+  ],
+  "evidence": [
+    "Oldest of 35/30 reviews checked (complete, dataforseo): 2026-08-25T22:34:56.000Z"
+  ],
+  "earliestReviewAt": "2026-08-25T22:34:56.000Z",
+  "earliestReviewDatePrecision": "EXACT",
+  "earliestReviewRelative": "a month ago",
+  "earliestReviewComplete": true,
+  "reviewsChecked": 35,
+  "firstSeenAt": null,
+  "leadSignals": {
+    "noWebsite": false,
+    "hasWebsite": true,
+    "lowReviewCount": false,
+    "missingPhone": false,
+    "noSocialsDetected": false
+  },
+  "emails": [
+    "hello@barnova.com.au"
+  ],
+  "primaryEmail": "hello@barnova.com.au",
+  "socials": {
+    "facebook": "",
+    "instagram": "https://instagram.com/barnova.cbr",
+    "linkedin": "",
+    "twitter": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "contactPageUrl": null,
+  "enrichmentStatus": "SUCCESS",
+  "searchTerm": "cafe",
+  "location": "Kingston, ACT, Australia",
+  "matchedSearches": [
+    {
+      "searchTerm": "cafe",
+      "location": "Kingston, ACT, Australia"
+    },
+    {
+      "searchTerm": "restaurant",
+      "location": "Kingston, ACT, Australia"
+    },
+    {
+      "searchTerm": "bar",
+      "location": "Kingston, ACT, Australia"
+    }
+  ],
+  "scrapedAt": "2026-10-14T11:12:59.639Z"
+},
+{
+  "rowType": "business",
+  "name": "Hungry Beagle",
+  "placeId": "ChIJi_sytcWtF2sRpTuCLG8lNaE",
+  "cid": "11616231973290392485",
+  "featureId": "0x6b17adc5b532fb8b:0xa135256f2c823ba5",
+  "googleMapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJi_sytcWtF2sRpTuCLG8lNaE&hl=en",
+  "category": "Restaurant",
+  "categories": [
+    "Restaurant"
+  ],
+  "address": "72 Canopus Cres, Giralang ACT 2617, Australia",
+  "latitude": -35.213132,
+  "longitude": 149.0957002,
+  "plusCode": "Q3PW+P7 Giralang, Australian Capital Territory, Australia",
+  "phone": null,
+  "website": null,
+  "rating": 4.9,
+  "reviewsCount": 49,
+  "businessStatus": "OPERATIONAL",
+  "estimatedOpenedAt": "2026-08-07",
+  "openingDateSource": "EARLIEST_REVIEW",
+  "openingConfidence": "MEDIUM",
+  "googleOpenedLabel": null,
+  "isNewBusiness": true,
+  "businessStage": "NEW",
+  "qualificationStatus": "QUALIFIED_NEW",
+  "newBusinessSignals": [
+    "RECENT_FIRST_REVIEW"
+  ],
+  "evidence": [
+    "Oldest of 53/49 reviews checked (complete, dataforseo): 2026-08-07T08:47:32.000Z"
+  ],
+  "earliestReviewAt": "2026-08-07T08:47:32.000Z",
+  "earliestReviewDatePrecision": "EXACT",
+  "earliestReviewRelative": "2 months ago",
+  "earliestReviewComplete": true,
+  "reviewsChecked": 53,
+  "firstSeenAt": null,
+  "leadSignals": {
+    "noWebsite": false,
+    "hasWebsite": true,
+    "lowReviewCount": false,
+    "missingPhone": false,
+    "noSocialsDetected": false
+  },
+  "emails": [],
+  "primaryEmail": null,
+  "socials": {
+    "facebook": "https://facebook.com/hungrybeaglepizza",
+    "instagram": "https://instagram.com/p/Db6gLWSTqvZ",
+    "linkedin": "",
+    "twitter": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "contactPageUrl": null,
+  "enrichmentStatus": "SUCCESS",
+  "searchTerm": "bar",
+  "location": "Belconnen, ACT, Australia",
+  "matchedSearches": [
+    {
+      "searchTerm": "bar",
+      "location": "Belconnen, ACT, Australia"
+    }
+  ],
+  "scrapedAt": "2026-10-14T11:16:56.341Z"
+}]
